@@ -1,0 +1,32 @@
+.estilo{
+
+  margin: 1rem;
+  padding: 1rem;
+  border: 2px solid #ccc;
+  /* IMPORTANTE */
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.uno{
+    width: 120px;
+    height: 120px;
+    margin-left: 25px;
+}
+
+a{
+  text-decoration: none;
+  
+}
+
+.a{
+  text-decoration: none;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
